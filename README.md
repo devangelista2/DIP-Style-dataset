@@ -1,2 +1,2 @@
-# DIP-Style-dataset
-The dataset employed for DIP-Style Paper
+# DIP-Style: Inpainting with Style
+This repository contains the data used for the experiments in the paper: *Inpainting with Style Transfer: Forcing style coherence to image inpainting with unsupervised learned approach*. In particular, it includes the processed paintings, the masks, and the obtained reconstructions.
